@@ -38,10 +38,5 @@ User: **demo@demo.com**
 
 Pass: **demodemo**
 
-## Author
 
-####Andy Wu
-
-+	https://www.andydesign.co.nz
-
-+	<mailto:admin@andy-web-dev.com>
+Enjoy!
