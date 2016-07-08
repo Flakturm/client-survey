@@ -1,9 +1,5 @@
-# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
-
 ### A CodeIgniter skeleton application based on twitter bootstrap and html5boilerplate.
 ---------------------------------------------------
-
-	VERSION 1.1.3
 
 * Codeigniter 2.1.4
 * bootstrap 3.0RC1
@@ -26,19 +22,26 @@ USAGE
 4. create your template: I've set up an header, footer, nav, and main for example purpose. Skeleton.php contains the scaffolding page.
 5. pass your data to the view using in controller $this->data["my_var"] = "value";
 
-My_Controller
+Database installation
 ------------------- 
-is made for my basic page template.
-You need to customize it in order to match your needs.
-Feel free to improve it.
-Send a pull request, or contact me.
+Find **sonepar.sql.gz** in application/sql/ and import it to your database.
+
+Email configuration
+------------------- 
+Go to application/controllers/email.php line 275 and enter your email details.
+
+Demo
+------------------- 
+URL: https://www.andydesign.co.nz/projects/sonepar
+
+User: **demo@demo.com**
+
+Pass: **demodemo**
 
 ## Author
 
-####Alessandro Arnodo
+####Andy Wu
 
-+	[@vesparny](https://twitter.com/vesparny)
++	https://www.andydesign.co.nz
 
-+	[http://alessandro.arnodo.net](http://alessandro.arnodo.net)
-
-+	<mailto:alessandro@arnodo.net>
++	<mailto:admin@andy-web-dev.com>
