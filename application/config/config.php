@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'https://www.andydesign.co.nz/projects/sonepar/';
+$config['base_url']	= '';
 
 /*
 |--------------------------------------------------------------------------
